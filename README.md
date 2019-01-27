@@ -1,6 +1,6 @@
 # Programmering för barn
 
-> En kurerad lista av resurser med programmering för barn på svenska :computer: :baby: :sweden:
+> En lista med resurser på svenska, för att lära barn programmering :computer: :boy: :girl: :sweden:
 
 * [Barnhack!](https://www.iis.se/lar-dig-mer/guider/barnhack/) - Kom igång med programmering! Den här boken, med tillhörande fördjupningsmaterial, vänder sig till dig som vuxen med barn i din närhet, dina egna eller andras. Du kanske är en förälder som vill väcka dina barns intresse för programmering, men kan lika gärna vara en moster, fritidsledare eller lärare.
 * [Code.org](https://code.org) - Vad kommer du att skapa? Alla elever i alla skolor borde ha möjligheten att lära sig datavetenskap.
