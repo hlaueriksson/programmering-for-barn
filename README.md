@@ -5,7 +5,6 @@
 * [Barnhack](https://internetstiftelsen.se/kunskap/rapporter-och-guider/barnhack/) - I dag använder de flesta yngre i Sverige uppkopplade apparater och datorer. Men förståelsen för hur allt hänger ihop är rätt liten. Det handlar om att väcka nyfikenheten och intresset för hur datorer, programmering och nätet egentligen fungerar.
 * [Code.org](https://code.org) - Vad kommer du att skapa? Alla elever i alla skolor borde ha möjligheten att lära sig datavetenskap.
 * [CodeCombat](https://codecombat.com/) - _A classroom in-a-box for teaching computer science._ CodeCombat är en platform för elever att lära sig datavetenskap när de spelar igenom ett riktigt spel. _Our courses have been specifically playtested to excel in the classroom, even for teachers with little to no prior programming experience._ [Hjälp till att översätta till **[svenska](https://codecombat.com/contribute/diplomat)**]
-<!--* [CoderDojo Sverige](http://coderdojo.se) - CoderDojo är en global rörelse för att alla ska få testa på programmering. Det är gratis att komma till CoderDojo och är öppet för tjejer och killar 7-17 år. Du kan få lära dig att göra bl.a. spel, appar och hemsidor. Du behöver inte kunna programmera innan du kommer.-->
 * [CoderDojo Stockholm](https://coderdojostockholm.se/) - En kodklubb för ungdomar mellan 7-17 i Stockholm.
 * [Digitala lektioner](https://digitalalektioner.se/amnesomrade/programmering/) - Vad är en algoritm och hur används programmering för att lösa problem? Med Digitala lektioner får eleverna lära sig grunderna i programmering. Från analog programmering med fokus på förståelse för begrepp som koda, loop och villkor till blockprogrammering i Scratch.
 * [Enkelt](https://enkelt.io) - Enkelt är världens första svenskspråkiga programmeringsspråk, och det perfekta valet för programmeringsundervisning på svenska. Språket fungerar till 100% på svenenska, det betyder att alla nyckelord, funktionsnamn, etc... är på svenska. Tanken bakom Enkelt är att lära ut _koncepten_ inom programmering och inte specifika programmeringsspråk. Språket ger en realistisk bild av hur programmering fungerar. Enkelt fungerar på samma sätt som andra språk så man kan lätt studera vidare.
@@ -33,3 +32,6 @@
 ## In English?
 
 * [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids) - A curated list of resources for teaching kids programming.
+
+<!--## Trasiga länkar-->
+<!--* [CoderDojo Sverige](http://coderdojo.se) - CoderDojo är en global rörelse för att alla ska få testa på programmering. Det är gratis att komma till CoderDojo och är öppet för tjejer och killar 7-17 år. Du kan få lära dig att göra bl.a. spel, appar och hemsidor. Du behöver inte kunna programmera innan du kommer.-->
