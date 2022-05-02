@@ -2,6 +2,7 @@
 
 > En lista med resurser på svenska, för att lära barn programmering :computer: :boy: :girl: :sweden:
 
+* [Allakando](https://www.allakando.se/sommarlager/programmering/) - Lär dig programmera samtidigt som du skaffar nya vänner och skapar minnen på Allakandos sommarläger.
 * [Apple](https://www.apple.com/se/education/k12/teaching-code/) - När du lär ut kodning lär du inte bara ut teknikens språk. Du lär ut nya sätt att tänka och förverkliga idéer. Apple har två program som hjälper dig att införa kodning i klassrummet, oavsett om du är nybörjare eller förbereder dina elever för att bli Swift-certifierade.
 * [Barnhack](https://internetstiftelsen.se/kunskap/rapporter-och-guider/barnhack/) - I dag använder de flesta yngre i Sverige uppkopplade apparater och datorer. Men förståelsen för hur allt hänger ihop är rätt liten. Det handlar om att väcka nyfikenheten och intresset för hur datorer, programmering och nätet egentligen fungerar.
 * [Code.org](https://code.org) - Vad kommer du att skapa? Alla elever i alla skolor borde ha möjligheten att lära sig datavetenskap.
@@ -25,6 +26,8 @@
 * [LEGO Education](https://education.lego.com/sv-se/lessons?subjects=Programmering) - Gör dig redo med lektioner. Utforska upp till 400+ lektioner med allt du behöver veta, från vilka set du behöver till bygginstruktioner. Allt du behöver för en bra lektion.
 * [LightBot](http://lightbot.com/) - _Solve Puzzles using Programming! LightBot is a puzzle game based on coding; it secretly teaches you programming logic as you play! This version of Lightbot lets you play in [...] **Swedish**! App Store | Google Play | Amazon_
 * [Lunds tekniska högskola](http://www.lth.se/programmera/) - Lär dig programmera. På Vattenhallen Science Center har vi kul med programmering för unga och utbildar lärare i hur man kan lära ut programmering för barn. Vi använder programspråket Scala och utvecklingsmiljön Kojo.
+* [Microsoft Learn Educator Center](https://docs.microsoft.com/sv-se/learn/educator-center/topics/stem) - STEM och kodning. Väcka elevernas nyfikenhet genom att koppla aktiviteter i klassen till den verkliga världen.
+* [Minecraft: Education Edition](https://education.minecraft.net/sv-se) - Minecraft är ett öppen värld-spel fullt av möjligheter, där spelare kan skapa och bygga, lösa problem tillsammans och utforska fantastiska världar. Miljoner elever världen över lär sig med Minecraft: Education Edition, i historia- och matematiklektioner, sommarläger och kodning, både hemma och i skolan.
 * [Natur & Kultur](https://www.nok.se/programmering) - Vi har stödet du behöver för att undervisa i programmering! Nybörjare eller van, här finns läromedel för dig och dina elever.
 * [NOX Academy](https://www.noxacademy.se/) - Skapa med teknik på våra läger och event!
 * [Programmera mera](https://urplay.se/serie/196673-programmera-mera) - Lekfull tv-serie om programmering för barn i 9-årsåldern som är nybörjare i ämnet. I seriens tio avsnitt deltar barn i allt klurigare utmaningar som handlar om logiskt tänkande, sortering, algoritmer och att uppmärksamma mönster och samband. Fokus ligger inte på att lära sig skriva kod eller programmeringsspråk utan på själva tankesättet - något som med fördel kan kopplas till flera olika skolämnen! Programledare: Karin Nygårds.
