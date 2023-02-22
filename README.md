@@ -23,6 +23,7 @@
 * [Kodboken](https://www.kodboken.se) - Är du nyfiken på programmering och digitalt skapande? Kodboken är sajten för dig som vill komma igång med kod. Med programmering kan du väcka liv i dina idéer och skapa animerade berättelser, spel, program och appar, eller musik. Du behöver inga förkunskaper, alla kan koda!
 * [Kodcentrum](https://www.kodcentrum.se) - Kodcentrum är en ideell förening som gratis introducerar barn till programmering och digitalt skapande. Genom våra verksamhetsområden Kodstugor, Barnhack, Koda i skolan och Kodboken.se, stärker vi den digitala demokratin, breddar bilden av vem som programmerar och vad som är uppbyggt av kod.
 * [kurser.se](https://www.kurser.se/kurs/programmering-for-barn) - Skärmtid du inte kan säga nej till. Programmering för barn öppnar upp för fantastiska möjligheter både nu och i framtiden. Kunskaper i programmering kommer snart vara grundläggande för flera yrken, så ge dina barn möjligheter att utvecklas med en programmeringskurs för barn.
+* [Learnist](https://learnist.se/) - Kodkurs för barn. Lär dig kodning via Minecraft! Den viktigaste färdigheten för framgång i framtiden.
 * [LEGO Education](https://education.lego.com/sv-se/lessons?subjects=Programmering) - Gör dig redo med lektioner. Utforska upp till 400+ lektioner med allt du behöver veta, från vilka set du behöver till bygginstruktioner. Allt du behöver för en bra lektion.
 * [LightBot](http://lightbot.com/) - _Solve Puzzles using Programming! LightBot is a puzzle game based on coding; it secretly teaches you programming logic as you play! This version of Lightbot lets you play in [...] **Swedish**! App Store | Google Play | Amazon_
 * [Lunds tekniska högskola](http://www.lth.se/programmera/) - Lär dig programmera. På Vattenhallen Science Center har vi kul med programmering för unga och utbildar lärare i hur man kan lära ut programmering för barn. Vi använder programspråket Scala och utvecklingsmiljön Kojo.
@@ -39,6 +40,7 @@
 * [Teacherhack](http://www.teacherhack.com/tag/programmering/) - Hacka läroplanen – lektionstips för digitalisering.
 * [Tekniska museet](https://www.tekniskamuseet.se/pa-gang/helgkurser-i-programmering/) - Helgkurser i programmering. Med roliga uppgifter får barnen skapa ett eget spel i programmet Scratch. Under en dag lär vi oss att koda både självständiga och spelarstyrda karaktärer. Du får även skapa ljud- och grafiska effekter till ditt spel, dessutom lär du dig grundläggande logik.
 * [Unga programmerare](https://ungaprogrammerare.se/) - Programmering för barn och ungdomar. Unga Programmerare håller kurser och läger i programmering för barn och ungdomar. Vi vill att fler ska lära sig programmering!
+* [Vetenskapens Hus](https://www.vetenskapenshus.se/om-oss/vara-teman/programmering-och-digitalisering) - Vi erbjuder både aktiviteter med ämnesspecifikt innehåll inom områdena biologi, fysik, kemi, matematik och teknik samt aktiviteter med tematiskt innehåll. Inom temat programmering och digitalisering erbjuder vi handledda aktiviteter för elever där vi bland annat räknar med binära tal och koder och där vi programmerar och kör robotar.
 
 ## In English?
 
